@@ -4,12 +4,6 @@ A sleek, responsive startup-style landing page for a fictional dog-dating app, b
 
 ---
 
-## 📌 Live Demo  
-*Put your live demo link here*  
-e.g. `https://your-username.github.io/TinDog/`
-
----
-
 ## ✨ Features & Highlights
 
 - **Responsive Grid Layout** – Utilizes Bootstrap’s 12-column grid to seamlessly adapt across mobile, tablet, and desktop screens.  
@@ -83,13 +77,6 @@ Bootstrap utilities like `.text-center`, `.mt-5`, `.py-5`, `.d-flex`, `.justify-
 1. A practical deep dive into Bootstrap—grids, navigation, utilities, components like cards and carousels.  
 2. How to build a **fully responsive** landing page with minimal custom CSS.  
 3. Best practices for **semantic HTML** when paired with Bootstrap.
-
----
-
-## 🧩 Inspired By
-
-- The original TinDog Bootstrap lesson in [The App Brewery course](https://appbrewery.com) — demonstrates practical Bootstrap implementation  
-- Other open-source takes like m10hit’s version, which also uses Bootstrap-driven components (Carousel, Cards, Navbar)
 
 ---
 
